@@ -91,7 +91,7 @@ const Page = () => {
 
             <Section delay={0.2}>
                 <Heading as="h3" variant="section-title">
-                    Roadmap
+                    Bio
                 </Heading>
                 <BioSection>
                     <BioYear>1994</BioYear>
@@ -122,6 +122,15 @@ const Page = () => {
                     <BioYear>2024 to present</BioYear>
                     Started blogging on Astro to share insights on technology and design.
                 </BioSection>
+            </Section>
+
+            <Section delay={0.3}>
+                <Heading as="h3" variant="section-title">
+                    Hobbies
+                </Heading>
+                <Paragraph>
+                    Art, Music, Gaming, Playing Bass, Droning, Machine Learning, {' '} Fintech
+                </Paragraph>
             </Section>
 
         </Container>
