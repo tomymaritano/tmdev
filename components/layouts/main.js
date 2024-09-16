@@ -22,14 +22,14 @@ const Main = ({ children, router }) => {
         <meta name="og:title" content="Tomy Maritano" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="#" />
-        <title>Tomy Maritano - Homepage</title>
+        <title>Homepage - Tomy Maritano</title>
       </Head>
 
       <NavBar path={router.asPath} />
 
       <Container maxW="container.md" pt={14}>
 
-        {children}
+        {children}  
     <Footer />
       </Container>
     </Box>
