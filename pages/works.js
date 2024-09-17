@@ -14,13 +14,13 @@ const Works = () => {
                 <Heading as='h3' fontSize={20} mb={4}>Works</Heading>
                 <SimpleGrid columns={[1, 1, 2]} gap={6}>
                     <Section>
-                        <WorkGridItem thumbnail={thumbanailDolar}>
+                        <WorkGridItem  thumbnail={thumbanailDolar}>
                             DolarGaucho: Argentine Finance. Calculators, Historical Data, and Currency Conversion.
                         </WorkGridItem>
 
                     </Section>
                     <Section>
-                        <WorkGridItem thumbnail={thumbanailUnicoin}>
+                        <WorkGridItem id="unicoin" title="Unicoin" thumbnail={thumbanailUnicoin}>
                             Unicoin, next-generation of Crypto. Assets-backed.
                         </WorkGridItem>
 
