@@ -57,7 +57,7 @@ const Work = () => (
         >
           <Image
             maxW={240}
-            src="/images/works/appstore.png"
+            src="/images/unicoin.png"
             className="image-appstore"
             alt="Download on App Store"
           />
