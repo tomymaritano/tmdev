@@ -2,6 +2,7 @@ import Head from 'next/head'
 import NavBar from '../navbar'
 import { Box, Container } from '@chakra-ui/react'
 import Footer from '../footer'
+import Molang3D from '../slider'
 
 
 const Main = ({ children, router }) => {
@@ -28,6 +29,7 @@ const Main = ({ children, router }) => {
       <NavBar path={router.asPath} />
 
       <Container maxW="container.md" pt={14}>
+        <Molang3D />
         {children}  
     <Footer />
       </Container>

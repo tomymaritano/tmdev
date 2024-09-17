@@ -18,7 +18,7 @@ const Work = () => (
   <Layout title="Unicoin">
     <Container>
       <Title>
-        Unicoin <Badge>2024</Badge>
+        Unicoin <Badge>2023</Badge>
       </Title>
       <P>
         Unicoin is a groundbreaking cryptocurrency designed to bring stability and growth to the digital currency ecosystem. Unlike traditional volatile cryptocurrencies, Unicoin is backed by real assets, providing a safer and more secure investment opportunity. Our goal is to democratize access to wealth-building opportunities, offering users a more reliable and sustainable way to participate in the world of digital finance.
