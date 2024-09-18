@@ -1,6 +1,6 @@
-import Spline from '@splinetool/react-spline/next';
+import Spline from '@splinetool/react-spline';
 
-export default function Test() {
+export default function Mogo3D() {
   return (
     <main>
       <Spline
