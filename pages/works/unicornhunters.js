@@ -21,8 +21,9 @@ const Work = () => (
         Unicorn Hunters <Badge>2024</Badge>
       </Title>
       <P>
-        Unicorn Hunters is a groundbreaking business series that brings together top-tier investors and visionary entrepreneurs. Our platform aims to democratize access to investment opportunities, allowing individuals to invest in the next potential "unicorn" companies. By providing a transparent and accessible platform, Unicorn Hunters bridges the gap between innovative startups and a global community of investors.
+        Unicorn Hunters is a groundbreaking business series that brings together top-tier investors and visionary entrepreneurs. Our platform aims to democratize access to investment opportunities, allowing individuals to invest in the next potential &quot;unicorn&quot; companies. By providing a transparent and accessible platform, Unicorn Hunters bridges the gap between innovative startups and a global community of investors.
       </P>
+
       <P>
         With a mission to foster entrepreneurship and innovation, Unicorn Hunters offers a unique blend of entertainment and investment opportunities. Watch entrepreneurs pitch their ideas, get insights from industry experts, and participate in the journey to discover the next billion-dollar company.
       </P>

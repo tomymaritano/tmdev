@@ -24,7 +24,7 @@ const Work = () => (
         DolarGaucho is a comprehensive platform designed to provide real-time information on Argentine finance, specifically focusing on the various exchange rates of the dollar. Our platform offers users a range of tools including currency conversion calculators, historical data charts, and up-to-date exchange rates, all in an easy-to-use interface. 
       </P>
       <P>
-        Whether you're an investor, a business owner, or someone looking to stay informed about the Argentine economy, DolarGaucho provides accurate and accessible financial information. Our mission is to empower users with the data they need to make informed financial decisions in an ever-changing economic landscape.
+        Whether you&apos;re an investor, a business owner, or someone looking to stay informed about the Argentine economy, DolarGaucho provides accurate and accessible financial information. Our mission is to empower users with the data they need to make informed financial decisions in an ever-changing economic landscape.
       </P>
       <UnorderedList my={4}>
         <ListItem>Real-time exchange rates and financial data</ListItem>

@@ -24,8 +24,9 @@ const Work = () => (
         Unicoin is a groundbreaking cryptocurrency designed to bring stability and growth to the digital currency ecosystem. Unlike traditional volatile cryptocurrencies, Unicoin is backed by real assets, providing a safer and more secure investment opportunity. Our goal is to democratize access to wealth-building opportunities, offering users a more reliable and sustainable way to participate in the world of digital finance.
       </P>
       <P>
-        Whether you're an experienced investor or new to the crypto space, Unicoin offers a transparent and easy-to-use platform. Join us in our mission to revolutionize the way we think about and interact with digital currencies.
+        Whether you&apos;re an experienced investor or new to the crypto space, Unicoin offers a transparent and easy-to-use platform. Join us in our mission to revolutionize the way we think about and interact with digital currencies.
       </P>
+
       <UnorderedList my={4}>
         <ListItem>Stable cryptocurrency backed by real assets</ListItem>
         <ListItem>Designed for long-term growth and stability</ListItem>
