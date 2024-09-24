@@ -1,11 +1,11 @@
 import Spline from '@splinetool/react-spline';
 
-export default function Molang3D() {
+export default function Home() {
   return (
-    <div>
+    <main>
       <Spline
-        scene="https://prod.spline.design/CT7sJCiPCrNdYi16/scene.splinecode" 
+        scene="https://prod.spline.design/adTmnokq66r9Loag/scene.splinecode" 
       />
-    </div>
+    </main>
   );
 }

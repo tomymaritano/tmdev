@@ -1,11 +1,12 @@
+import { Box } from '@chakra-ui/react';
 import Spline from '@splinetool/react-spline';
 
 export default function Mogo3D() {
   return (
-    <main>
+    <Box>
       <Spline
-        scene="https://prod.spline.design/CT7sJCiPCrNdYi16/scene.splinecode" 
+        scene="https://prod.spline.design/adTmnokq66r9Loag/scene.splinecode" 
       />
-    </main>
+    </Box>
   );
 }

@@ -80,9 +80,6 @@ const Navbar = props => {
           <LinkItem href="/works" path={path}>
             Works
           </LinkItem>
-          <LinkItem href="/posts" path={path}>
-            Posts
-          </LinkItem>
           <LinkItem
             target="_blank"
             href="https://github.com/tomymaritano/tmdev"
@@ -114,9 +111,6 @@ const Navbar = props => {
                 </MenuItem>
                 <MenuItem as={MenuLink} href="/works">
                   Works
-                </MenuItem>
-                <MenuItem as={MenuLink} href="/posts">
-                  Posts
                 </MenuItem>
                 <MenuItem as={MenuLink} href="https://tmaritanoblog.netlify.app/">
                   Blog
