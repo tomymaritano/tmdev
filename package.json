@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Tomas Maritano <tmaritanodev@gmail.com",
+  "author": "Tomas Maritano tmaritanodev@gmail.com",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
