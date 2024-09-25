@@ -9,10 +9,6 @@ import thumbanailDolar from '../public/images/dolargaucho.png'
 import thumbanailUnicoin from '../public/images/unicoin.png'
 import thumbanailUHn from '../public/images/unicornhunters.png'
 
-//Certificaiones
-
-// import thumbanailUX1 from '../public/images/certifications/ux1.png'
-// import thumbanailUX2 from '../public/images/certifications/ux2.png'
 
 const Works = () => {
     return (
@@ -37,35 +33,6 @@ const Works = () => {
                     </Section>
                 </ SimpleGrid>
 
-                {/* <Section delay={0.2}>
-                    <Divider my={6} />
-                    <Heading as="h3" fontSize={20} mb={4}>
-                        Certifications
-                    </Heading>
-                </Section>
-
-                <SimpleGrid columns={[1, 1, 2]} gap={6}>
-                    <Section>
-                        <WorkGridItem thumbnail={thumbanailUX1}>
-                            Foundations of User Experience (UX) Design
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem thumbnail={thumbanailUX2}>
-                            Start the UX Design Process: Empathize, Define, and Ideate
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem thumbnail={thumbanailUX1}>
-                            Build Wireframes and Low-Fidelity Prototypes
-                        </WorkGridItem>
-                    </Section>
-                    <Section>
-                        <WorkGridItem thumbnail={thumbanailUX2}>
-                            Conduct UX Research and Test Early Concepts
-                        </WorkGridItem>
-                    </Section> */}
-                {/* </ SimpleGrid> */}
             </Container>
         </Layout>
     )

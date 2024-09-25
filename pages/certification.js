@@ -12,6 +12,7 @@ import thumbanaildesarrollo from '../public/images/certifications/productmanager
 import thumbanailgoogle from '../public/images/certifications/google.png'
 import thumbanailgpt from '../public/images/certifications/gpt.png'
 import thumbanailyandiki from '../public/images/certifications/yandiki.png'
+import thumbanailciber from '../public/images/certifications/foundationsciber.png'
 
 
 const Certifications = () => {
@@ -34,6 +35,11 @@ const Certifications = () => {
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanailgpt}>
                             Prompt Engineering for ChatGPT - Vanderbilt University
+                        </WorkGridItemNoLink>
+                    </Section>
+                    <Section>
+                        <WorkGridItemNoLink thumbnail={thumbanailciber}>
+                            Cloud Networking By ChatGPT - Remote Work
                         </WorkGridItemNoLink>
                     </Section>
                     <Section>
