@@ -1,4 +1,4 @@
-const { Container, Heading, SimpleGrid, Divider } = require("@chakra-ui/react")
+const { Container, Heading, SimpleGrid } = require("@chakra-ui/react")
 import Layout from '../components/layouts/article'
 import { WorkGridItem } from '../components/grid-item'
 import Section from '../components/section'
@@ -11,8 +11,8 @@ import thumbanailUHn from '../public/images/unicornhunters.png'
 
 //Certificaiones
 
-import thumbanailUX1 from '../public/images/certifications/ux1.png'
-import thumbanailUX2 from '../public/images/certifications/ux2.png'
+// import thumbanailUX1 from '../public/images/certifications/ux1.png'
+// import thumbanailUX2 from '../public/images/certifications/ux2.png'
 
 const Works = () => {
     return (
@@ -37,7 +37,7 @@ const Works = () => {
                     </Section>
                 </ SimpleGrid>
 
-                <Section delay={0.2}>
+                {/* <Section delay={0.2}>
                     <Divider my={6} />
                     <Heading as="h3" fontSize={20} mb={4}>
                         Certifications
@@ -64,8 +64,8 @@ const Works = () => {
                         <WorkGridItem thumbnail={thumbanailUX2}>
                             Conduct UX Research and Test Early Concepts
                         </WorkGridItem>
-                    </Section>
-                </ SimpleGrid>
+                    </Section> */}
+                {/* </ SimpleGrid> */}
             </Container>
         </Layout>
     )
