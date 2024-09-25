@@ -26,7 +26,7 @@ const Page = () => {
                 bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
                 css={{ backdropFilter: 'blur(10px)' }}
             >
-                Hello, I&apos;m an indie app developer based in Argetina!
+                Hello, I&apos;m an UX Engineer based in Argetina!
             </Box>
 
             <Box display={{ md: 'flex' }}>
