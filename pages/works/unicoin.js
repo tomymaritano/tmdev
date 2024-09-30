@@ -5,7 +5,7 @@ import {
   Link,
   List,
   ListItem,
-  SimpleGrid,
+  // SimpleGrid,
   UnorderedList,
   Image
 } from '@chakra-ui/react'
@@ -65,11 +65,11 @@ const Work = () => (
         </Link>
       </Box>
 
-      <WorkImage src="/images/works/unicoin_eyecatch.png" alt="Unicoin" />
-      <SimpleGrid columns={2} gap={2}>
+      {/* <WorkImage src="/images/works/unicoin_eyecatch.png" alt="Unicoin" /> */}
+      {/* <SimpleGrid columns={2} gap={2}>
         <WorkImage src="/images/works/unicoin_01.png" alt="Unicoin" />
         <WorkImage src="/images/works/unicoin_02.png" alt="Unicoin" />
-      </SimpleGrid>
+      </SimpleGrid> */}
     </Container>
   </Layout>
 )

@@ -64,12 +64,12 @@ const Work = () => (
           />
         </Link>
       </Box>
-
+{/* 
       <WorkImage src="/images/works/unicornhunters_eyecatch.png" alt="Unicorn Hunters" />
       <SimpleGrid columns={2} gap={2}>
         <WorkImage src="/images/works/unicornhunters_01.png" alt="Unicorn Hunters" />
         <WorkImage src="/images/works/unicornhunters_02.png" alt="Unicorn Hunters" />
-      </SimpleGrid>
+      </SimpleGrid> */}
     </Container>
   </Layout>
 )
