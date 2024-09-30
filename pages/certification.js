@@ -13,6 +13,7 @@ import thumbanailgoogle from '../public/images/certifications/google.png'
 import thumbanailgpt from '../public/images/certifications/gpt.png'
 import thumbanailyandiki from '../public/images/certifications/yandiki.png'
 import thumbanailciber from '../public/images/certifications/foundationsciber.png'
+import thumbanaillemon from '../public/images/certifications/lemon.png'
 
 
 const Certifications = () => {
@@ -39,17 +40,22 @@ const Certifications = () => {
                     </Section>
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanailciber}>
-                            Cloud Networking By ChatGPT - Remote Work
+                            Foundations of Cybersecurity - Google
+                        </WorkGridItemNoLink>
+                    </Section>
+                    <Section>
+                        <WorkGridItemNoLink thumbnail={thumbanaillemon}>
+                            Crypto & Web3 at Lemon
                         </WorkGridItemNoLink>
                     </Section>
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanailyandiki}>
-                            Cloud Networking By ChatGPT - Remote Work
+                            Cloud Networking - Yandiki
                         </WorkGridItemNoLink>
                     </Section>
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanailproduct}>
-                            Product Manager at Coderhouse certified by Pomelo
+                            Web Development at Coderhouse certified by PedidosYa
                         </WorkGridItemNoLink>
                     </Section>
                     <Section>
@@ -59,12 +65,12 @@ const Certifications = () => {
                     </Section>
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanaildesarrollo}>
-                            Web development at Coderhouse certified by PedidosYa
+                            Product Management at Coderhouse certified by Pomelo
                         </WorkGridItemNoLink>
                     </Section>
                     <Section>
                         <WorkGridItemNoLink thumbnail={thumbanailangular}>
-                            Conduct UX Research and Test Early Concepts
+                            Angular at Coderhouse
                         </WorkGridItemNoLink>
                     </Section>
                 </ SimpleGrid>
